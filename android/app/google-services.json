@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "293214518907",
+    "project_id": "aplikasikalatari",
+    "storage_bucket": "aplikasikalatari.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293214518907:android:c67777f2e8977fe66cecde",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_kalatari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293214518907-hdoau8720d87hlgscak8g1p0m27nclbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplikasi_kalatari",
+            "certificate_hash": "333daf590672430ddf2a92736c6d8be140ade32d"
+          }
+        },
+        {
+          "client_id": "293214518907-vu1rufaiqr9cgulm4fgsg44t68ca55gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplikasi_kalatari",
+            "certificate_hash": "7b00ece11c8453879ae18f0ef23e35c64407226c"
+          }
+        },
+        {
+          "client_id": "293214518907-jpii3sqnfo3cg0p2ekppv99n8e2t650b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMNnZZ3NOjLbCDvCwLx4VgY3vV0htynk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293214518907-jpii3sqnfo3cg0p2ekppv99n8e2t650b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293214518907:android:6d372c6a88c01e776cecde",
+        "android_client_info": {
+          "package_name": "com.example.kalatari_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293214518907-7m2h6ont72t4oiujv7340lo1p5j9ln5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalatari_app",
+            "certificate_hash": "e1077abc1446dc7599772ed61d88a1d09a0cf39f"
+          }
+        },
+        {
+          "client_id": "293214518907-jpii3sqnfo3cg0p2ekppv99n8e2t650b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMNnZZ3NOjLbCDvCwLx4VgY3vV0htynk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293214518907-jpii3sqnfo3cg0p2ekppv99n8e2t650b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293214518907:android:5e071e3303d68ad06cecde",
+        "android_client_info": {
+          "package_name": "com.kalatari.testfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293214518907-dmrjp54krf641bcj56jmmlmnn1qk2b8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kalatari.testfix",
+            "certificate_hash": "7b00ece11c8453879ae18f0ef23e35c64407226c"
+          }
+        },
+        {
+          "client_id": "293214518907-jpii3sqnfo3cg0p2ekppv99n8e2t650b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMNnZZ3NOjLbCDvCwLx4VgY3vV0htynk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293214518907-jpii3sqnfo3cg0p2ekppv99n8e2t650b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
